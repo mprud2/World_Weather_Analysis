@@ -32,7 +32,7 @@ Create scatter plots of the weather data for the following comparisons:
 - Latitude versus humidity
 - Latitude versus cloudiness
 - Latitude versus wind speed
-- 
+
 Determine the correlations for the following weather data:
 - Latitude and temperature
 - Latitude and humidity
